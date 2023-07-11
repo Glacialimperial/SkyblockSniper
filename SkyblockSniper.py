@@ -27,7 +27,7 @@ REFORGES = [" ✦", "⚚ ", " ✪", "✪", "Stiff ", "Lucky ", "Jerry's ", "Dirt
 LOWEST_PRICE = 5
 
 # Constant to turn on/off desktop notifications
-NOTIFY = False
+NOTIFY = True
 
 # Constant for the lowest percent difference you want to be shown to you; feel free to change this
 LOWEST_PERCENT_MARGIN = 1/2
